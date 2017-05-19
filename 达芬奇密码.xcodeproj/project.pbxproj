@@ -385,6 +385,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "达芬奇密码/达芬奇密码-Prefix.pch";
 				INFOPLIST_FILE = "达芬奇密码/达芬奇密码-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chenshiwen.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -399,6 +400,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "达芬奇密码/达芬奇密码-Prefix.pch";
 				INFOPLIST_FILE = "达芬奇密码/达芬奇密码-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.chenshiwen.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
